@@ -4,3 +4,5 @@ def tested(a):
 
 b = tested(4)
 print(f'square of given nubmer is {b}')
+
+print("Akhir is marz ki dawa kia hai")
